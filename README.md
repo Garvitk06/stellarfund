@@ -85,4 +85,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
+## 📅 Project Milestones
+
+- **Initial Release (v1.0.0)**: Core Soroban escrow contract and Next.js frontend integrated.
+- **Hybrid Sync Implementation**: Real-time event indexing with MongoDB Atlas.
+- **Production Hardening**: Integrated real XLM token transfers and instant payout logic.
+
+---
+
 *Made with ❤️ for the Stellar Ecosystem.*
