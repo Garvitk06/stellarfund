@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+*.env
+.env.*
+!.env.example
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+.npm-cache/
+
+# Rust/Soroban Build
+target/
+**/target/
+
+# System files
+.DS_Store
+Thumbs.db
+*.node
