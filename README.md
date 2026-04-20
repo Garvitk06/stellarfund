@@ -8,7 +8,7 @@ StellarFund is a decentralized, high-performance crowdfunding platform built on 
 
 - **Public Repository**: [GitHub - stellarfund](https://github.com/Garvitk06/stellarfund)
 - **Deployed Contract ID**: [`CDTEJC34YJDNOKHALUZ34AUSWT3LVZYXQ2AB4DZUK7CWGVYXMWOYKFXW`](https://stellar.expert/explorer/testnet/contract/CDTEJC34YJDNOKHALUZ34AUSWT3LVZYXQ2AB4DZUK7CWGVYXMWOYKFXW)
-- **Transaction Hash (Contract Call)**: `[REPLACE_WITH_YOUR_LATEST_TX_HASH]`  
+- **Transaction Hash (Contract Call)**: `https://stellar.expert/explorer/testnet/op/9183464712622081`  
   *(Search for your wallet address on [Stellar Expert](https://stellar.expert/explorer/testnet) to find your latest `donate` or `create_campaign` transaction)*
 
 ---
@@ -31,12 +31,12 @@ StellarFund is a decentralized, high-performance crowdfunding platform built on 
 ### Wallet Integration & Connectivity
 The platform supports all major Stellar wallets, providing a unified connection experience.
 
-![Wallet Options](assets/Screenshot%202026-04-20%20at%208.28.33%20PM.png)
+![Wallet Options](assets/screenshot-wallet.png)
 
 ### Campaign & Backer Interaction
 | Campaign Creation | Backing a Project |
 | :---: | :---: |
-| ![Create Campaign](assets/Screenshot%202026-04-20%20at%208.28.38%20PM.png) | ![Donation Modal](assets/Screenshot%202026-04-20%20at%208.28.55%20PM.png) |
+| ![Create Campaign](assets/screenshot-create.png) | ![Donation Modal](assets/screenshot-donate.png) |
 
 ---
 
